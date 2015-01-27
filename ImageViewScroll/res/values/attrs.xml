@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageViewScroll">
+        <attr name="image_name" format="string" />
+        <attr name="fit_on_screen" format="boolean" />
+    </declare-styleable>
+</resources>
