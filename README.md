@@ -11,4 +11,6 @@ ImageView that can be scrolled and zoomed in/out.
 You can find them in the value/attr.xml file.
 <br>
 
-You can scroll the image by draging and zoom in and out by pinch/squeeze.
+You can scroll the image by draging and zoom in and out by pinch/squeeze.<br/><br/>
+
+<a href="https://youtu.be/vOfI6gIV4HE">Video<a/>
